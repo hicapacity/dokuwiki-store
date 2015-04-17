@@ -1,1 +1,2 @@
 # dokuwiki-store
+test
